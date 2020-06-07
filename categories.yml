@@ -1,0 +1,88 @@
+power:
+  - bhp
+  - brake
+  - horse power
+  - hp
+  - torque
+drive:
+  - four wheel drive
+  - 4 by 4
+  - awd
+  - all wheel drive
+  - two wheel
+  - front wheel drive
+  - rear wheel drive
+type:
+  - electric
+  - petrol
+  - diesel
+breaking:
+  - abs
+  - anit breaking system
+  - drum breaks
+  - disc breaks
+  - air bags
+  - head airbags
+  - knee airbags
+  - side airbags
+steering:
+  - manual
+  - power
+  - acc
+  - adaptive cruise control
+  - aeb
+  - autonomous emergancy breaking
+  - four wheel steering
+features:
+  - gps
+  - global positioning system
+  - nvh
+  - noise vibration and harshness
+  - tcs
+  - traction control system
+  - intelligent car
+  - keyless ignition
+  - parking lights
+  - parking sensors
+  - rain sensor
+  - rain sensing wiper
+  - spoiler
+  - front spoiler
+  - rear spoiler
+  - head room
+cost:
+  - price range
+  - estimated cost
+  - on road price
+  - sale price
+  - discount
+car type:
+  - luxury
+  - sports
+  - vintage
+  - suv
+  - sports unitily vehicle
+  - compact car
+  - truck
+  - sedan
+  - pickup truck
+  - hatchback
+  - van
+  - minivan
+  - station wagon
+  - convertible
+  - family car
+  - super car
+  - micro car
+  - tourist car
+seats:
+  - two seater
+  - four seater
+  - five seater
+  - six seater
+  - seven seater
+fuel economy:
+  - fuel economy
+  - combine fuel
+  - average
+  - mileage
